@@ -1,4 +1,4 @@
-Hey there! I'm Divya Bisht 👋
+#Hey there! I'm Divya Bisht 👋
 Aspiring Data Analyst | AI & Agentic AI Enthusiast
 
 Turning data into insights and ideas into intelligent solutions. 🚀
@@ -12,7 +12,7 @@ I'm passionate about Data Analytics, Artificial Intelligence, and Agentic AI. I 
 🎯 Goal: To build data-driven and AI-powered solutions that create real impact.
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divyabisht156) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-bisht-72b769327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyabisht078@gmail.com) 
 
 # 💻 Tech Stack:
@@ -24,6 +24,11 @@ I'm passionate about Data Analytics, Artificial Intelligence, and Agentic AI. I 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Divya156611&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+##✨ Beyond Coding
+📚 Exploring new technologies and AI innovations.
+🔍 Enjoy solving analytical and logical problems.
+🛠️ Learning by building practical projects.
+🚀 Always looking for opportunities to grow and collaborate.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
