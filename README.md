@@ -1,5 +1,5 @@
 # Hey there! I'm Divya Bisht 👋
-Aspiring Data Analyst | AI & Agentic AI Enthusiast
+## Aspiring Data Analyst | AI & Agentic AI Enthusiast
 
 Turning data into insights and ideas into intelligent solutions. 🚀
 
