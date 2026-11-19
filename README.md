@@ -1,5 +1,15 @@
-# 💫 About Me:
-### Hey, I'm Divya Bisht 👋<br><br>💻 Aspiring Data Analyst passionate about turning data into meaningful insights.  <br>🤖 Exploring AI Engineering, Agentic AI, and LLM-powered applications.  <br>🛠️ Building with Python, SQL, Power BI, LangChain, and LangGraph.  <br>🌱 Always learning, experimenting, and building things that solve real-world problems.
+Hey there! I'm Divya Bisht 👋
+Aspiring Data Analyst | AI & Agentic AI Enthusiast
+
+Turning data into insights and ideas into intelligent solutions. 🚀
+
+I'm passionate about Data Analytics, Artificial Intelligence, and Agentic AI. I enjoy exploring data, building intelligent applications, and solving real-world problems through technology.
+
+📊 Exploring Data Analytics, SQL, Python and Power BI.
+🤖 Learning AI Engineering, LLMs, LangChain and LangGraph.
+💡 Building practical projects in Data Analytics and Agentic AI.
+🌱 Continuously learning and exploring emerging technologies.
+🎯 Goal: To build data-driven and AI-powered solutions that create real impact.
 
 
 ## 🌐 Socials:
