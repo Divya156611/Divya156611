@@ -24,11 +24,6 @@ I'm passionate about Data Analytics, Artificial Intelligence, and Agentic AI. I 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Divya156611&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-##✨ Beyond Coding
-📚 Exploring new technologies and AI innovations.
-🔍 Enjoy solving analytical and logical problems.
-🛠️ Learning by building practical projects.
-🚀 Always looking for opportunities to grow and collaborate.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
@@ -36,4 +31,9 @@ I'm passionate about Data Analytics, Artificial Intelligence, and Agentic AI. I 
 ---
 [![](https://komarev.com/ghpvc/?username=Divya156611&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ✨ Beyond Coding
+📚 Exploring new technologies and AI innovations.
+🔍 Enjoy solving analytical and logical problems.
+🛠️ Learning by building practical projects.
+🚀 Always looking for opportunities to grow and collaborate.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
