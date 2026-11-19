@@ -5,11 +5,11 @@ Turning data into insights and ideas into intelligent solutions. 🚀
 
 I'm passionate about Data Analytics, Artificial Intelligence, and Agentic AI. I enjoy exploring data, building intelligent applications, and solving real-world problems through technology.
 
-📊 Exploring Data Analytics, SQL, Python and Power BI.
-🤖 Learning AI Engineering, LLMs, LangChain and LangGraph.
-💡 Building practical projects in Data Analytics and Agentic AI.
-🌱 Continuously learning and exploring emerging technologies.
-🎯 Goal: To build data-driven and AI-powered solutions that create real impact.
+#### 📊 Exploring Data Analytics, SQL, Python and Power BI.
+#### 🤖 Learning AI Engineering, LLMs, LangChain and LangGraph.
+#### 💡 Building practical projects in Data Analytics and Agentic AI.
+#### 🌱 Continuously learning and exploring emerging technologies.
+#### 🎯 Goal: To build data-driven and AI-powered solutions that create real impact.
 
 
 ## 🌐 Connect With Me
